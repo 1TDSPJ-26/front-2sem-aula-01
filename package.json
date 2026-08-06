@@ -1,0 +1,25 @@
+{
+  "name": "front-2sem-aula-01",
+  "version": "1.0.0",
+  "description": "Revisão JS + TS + node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/1TDSPJ-26/front-2sem-aula-01.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/1TDSPJ-26/front-2sem-aula-01/issues"
+  },
+  "homepage": "https://github.com/1TDSPJ-26/front-2sem-aula-01#readme",
+  "devDependencies": {
+    "typescript": "^7.0.2"
+  }
+}
