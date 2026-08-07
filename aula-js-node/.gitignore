@@ -1,0 +1,6 @@
+#O gitignore é uma forma de informar ao git que não é necessário versionar esses arquivos.
+#Esses arquivos no versionamento não são necessários, pois são gerados automaticamente pelo npm
+
+node_modules/
+dist/
+package-lock.json
