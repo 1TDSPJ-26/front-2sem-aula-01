@@ -1,0 +1,17 @@
+{
+  "name": "primeiro-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "devDependencies": {
+    "i": "^0.3.7",
+    "typescript": "^7.0.2"
+  }
+}
